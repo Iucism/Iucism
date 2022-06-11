@@ -1,9 +1,9 @@
 
 <p align='center'>
-Hello, I'm lucism#3987!! 💖
+Hello, I'm lucism 💖
 </p>
 <p align='center'> 
-  I mess with css a lot 
+  I like to mess around with css.
 </p>
 
 <p align="center">
